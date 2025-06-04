@@ -1,0 +1,16 @@
+streamlit
+streamlit-folium
+folium
+earthengine-api
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+pandas
+numpy
+scipy
+plotly
+geopandas
+fiona
+shapely
+requests
+branca
