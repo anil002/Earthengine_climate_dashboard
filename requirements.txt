@@ -14,3 +14,4 @@ fiona
 shapely
 requests
 branca
+matplotlib
